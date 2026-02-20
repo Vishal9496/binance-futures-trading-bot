@@ -1,0 +1,3 @@
+# We use python-binance as it makes secure API communication much easier!
+python-binance==1.0.19
+python-dotenv==1.0.1

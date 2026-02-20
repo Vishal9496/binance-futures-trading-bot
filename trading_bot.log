@@ -1,0 +1,7 @@
+2026-02-20 16:51:57,589 - INFO - Successfully initialized Binance Client for Testnet.
+2026-02-20 16:51:57,590 - INFO - Preparing to place BUY MARKET order for 0.01 BTCUSDT...
+2026-02-20 16:51:59,543 - INFO - ORDER SUCCESSFUL!
+2026-02-20 16:51:59,543 - INFO - Order ID: 12414884573
+2026-02-20 16:51:59,544 - INFO - Status: NEW
+2026-02-20 16:51:59,544 - INFO - Executed Qty: 0.000
+2026-02-20 16:51:59,544 - INFO - Average Price: 0.00
